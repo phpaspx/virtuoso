@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="com.monitorlatino.webservices">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <dependent-module archiveName="org.json-20120521.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/drivers_java/org.json-20120521.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="icu4j_3_4.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/drivers_java/jena/icu4j_3_4.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="arq.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/drivers_java/jena/arq.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-logging.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/drivers_java/jena/commons-logging.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jena.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/drivers_java/jena/jena.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="virt_jena.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/drivers_java/jena/virt_jena.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="axis.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/drivers_java/jena/axis.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="virtjdbc4.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/drivers_java/jena/virtjdbc4.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="virtjdbc3.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/drivers_java/jena/virtjdbc3.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="xercesImpl.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/drivers_java/jena/xercesImpl.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="iri.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/drivers_java/jena/iri.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="com.monitorlatino.webservices"/>
+        <property name="java-output-path" value="/com.monitorlatino.webservices/build/classes"/>
+    </wb-module>
+</project-modules>

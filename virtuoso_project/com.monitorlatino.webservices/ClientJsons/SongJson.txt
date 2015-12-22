@@ -1,0 +1,18 @@
+{
+"entid":"131529",
+"song":"Crazy Crazy Nigths",
+"cs_song":"-536064748",
+"artist":"Kiss",
+"composer":"S",
+"type":"Rock",
+"genre":"sumit1",
+"publisher":"A",
+"user_name":"NULL",
+"status":"",
+"updated":"",
+"date_created":"2014-09-04 19:35:52",
+"date_updated":"2014-09-04 22:30:36",
+"item_length_sec":"218.3053588867",
+"expiry_date":"2015-11-28 19:35:52",
+"version":"0",
+}

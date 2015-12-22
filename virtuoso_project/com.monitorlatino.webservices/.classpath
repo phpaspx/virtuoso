@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/drivers_java/apache-logging-log4j.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/aopalliance-repackaged-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/aopalliance-repackaged-2.4.0-b06.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/asm-debug-all-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/cassandra-driver-core-2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/cassandra-driver-dse-2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/cassandra-driver-mapping-2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/hk2-api-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/hk2-api-2.4.0-b06.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/hk2-locator-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/hk2-locator-2.4.0-b06.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/hk2-utils-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/hk2-utils-2.4.0-b06.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/javax.inject-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/javax.inject-2.4.0-b06.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/jersey-client.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/jersey-common.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/jersey-core-1.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/jersey-guava-2.13.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/jersey-media-multipart-2.13.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/jersey-server.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/lz4-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/metrics-core-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/mimepull.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/netty-3.9.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/snappy-java-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/base/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/jena/arq.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/jena/axis.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/jena/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/jena/icu4j_3_4.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/jena/iri.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/jena/jena.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/jena/virt_jena.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/jena/virtjdbc3.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/jena/virtjdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/drivers_java/jena/xercesImpl.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
